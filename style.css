@@ -1,0 +1,87 @@
+body{
+         background-color: #15152c;
+
+
+}
+
+h1{
+    color: darkkhaki;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+
+
+.head h1{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.app{
+ text-align: center;
+}
+
+.app input{
+    background-color: #15152c;
+    border: 2px solid aqua;
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 20px;
+    color: aqua;
+    
+    
+}
+.app button{
+    background-color: #15152c;
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+    border: 1px solid aqua;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 40px;
+        margin-left: 10px;
+    }
+
+    .app input {
+        font-size: 24px;
+        padding: 15px;
+        border-radius: 20px;
+    }
+
+    .app button {
+        font-size: 24px;
+        padding: 20px;
+        border-radius: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
